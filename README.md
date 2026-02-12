@@ -6,7 +6,7 @@ This is a simple Python console-based game where the computer generates a random
 The program generates a random number between 1 and 100 using Python’s built-in random module.
 The user is prompted to guess the number, and the program compares the user's input with the randomly generated number.
 
-#Based on the comparison, the program provides feedback:
+# Based on the comparison, the program provides feedback:
 
  If the guessed number is lower than the computer’s number → it informs the user accordingly.
  If the guessed number is higher than the computer’s number → it notifies the user.
